@@ -174,7 +174,6 @@ public class Convert {
         System.out.println(in.converToString(in.d));
         System.out.println(in.converToString(in.st));
         System.out.println(in.converToString(in.bool));
-
     }
 }
 
